@@ -1,0 +1,8 @@
+Creating a weather website involves designing a user-friendly interface that displays weather information for different locations. Here's a simple description of how to create a weather website using HTML, CSS, and JavaScript:
+
+Features of the Weather Website
+
+1. Location Input: A text box where users can enter a city or location to get the current weather information.
+2. Weather Display: A section that displays the weather details including temperature, humidity, wind speed, and a weather icon.
+3. Background Change: The background changes based on the weather conditions (sunny, rainy, cloudy, etc.).
+4. Responsive Design: The website is responsive and looks good on both desktop and mobile devices.
